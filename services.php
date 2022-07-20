@@ -1,0 +1,5 @@
+<!--  
+    inpatient 
+    outpatient 
+    radiology 
+-->
